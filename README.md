@@ -6,12 +6,6 @@
   </div>
   
   <div align="center">
-    <a href="https://www.instagram.com/rapha.bpeixoto" target="_blank">
-      <img width="30%" src="./images/github-insta.svg"/>
-    </a>
-    <a href="https://www.linkedin.com/in/raphael-peixoto" target="_blank">
-      <img width="30%" src="./images/github-linkedin.svg"/>
-    </a>
     <a href="https://www.madeincode.com.br" target="_blank">
       <img width="30%" src="./images/github-madeincode.svg"/>
     </a>
